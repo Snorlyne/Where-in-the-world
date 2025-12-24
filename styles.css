@@ -446,7 +446,7 @@ button {
     }
 
     .filter-select {
-        width: 50%;
+        width: 100%;
         min-width: unset;
     }
 
